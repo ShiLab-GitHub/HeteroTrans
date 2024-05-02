@@ -1,0 +1,65 @@
+iupac,smiles,expt,calc
+chlorpyrifos,CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl,-5.04,-9.625
+"2-chloro-1,1,1-trifluoro-ethane",C(C(F)(F)F)Cl,0.06,0.233
+ethylene,C=C,1.28,2.328
+1-iodopentane,CCCCCI,-0.14,-0.111
+trimethoxymethane,COC(OC)OC,-4.42,-4.625
+decane,CCCCCCCCCC,3.16,3.335
+"1,2-dinitroxypropane",C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-],-4.95,-5.646
+prop-1-ene,CC=C,1.32,2.328
+3-methyl-1H-indole,Cc1c[nH]c2c1cccc2,-5.88,-8.161
+"(1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC,-12.74,-13.424
+cyclohexane,C1CCCCC1,1.23,1.503
+"(2E)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C/CO)/C)C,-4.45,-2.518
+cumene,CC(C)c1ccccc1,-0.3,-0.674
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,2.56,2.674
+3-methylbutan-2-one,CC(C)C(=O)C,-3.24,-3.078
+N-butylbutan-1-amine,CCCCNCCCC,-3.24,-2.076
+butane-1-thiol,CCCCS,-0.99,-0.174
+"1,2,3,4-tetrachlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-3.81,-2.775
+"2,6-dichlorosyringaldehyde",COc1c(c(c(c(c1Cl)C=O)Cl)OC)O,-8.68,-9.846
+cyclohexanamine,C1CCC(CC1)N,-4.59,-3.953
+chloro-difluoro-methane,C(F)(F)Cl,-0.5,-0.067
+methyl 4-nitrobenzoate,COC(=O)c1ccc(cc1)[N+](=O)[O-],-6.88,-6.588
+1-(3-pyridyl)ethanone,CC(=O)c1cccnc1,-8.26,-7.844
+prop-1-yne,CC#C,-0.48,0.065
+nonanal,CCCCCCCCC=O,-2.07,-2.336
+propionic acid,CCC(=O)O,-6.46,-9.088
+chloroform,C(Cl)(Cl)Cl,-1.08,0.285
+"1,2,3-trimethylbenzene",Cc1cccc(c1C)C,-1.21,-0.883
+methane,C,2.0,2.446
+benzyl chloride,c1ccc(cc1)CCl,-1.93,-1.742
+methylcyclohexane,CC1CCCCC1,1.7,1.679
+2-methylthiophene,Cc1cccs1,-1.38,-0.3
+pyridine,c1ccncc1,-4.69,-3.508
+1-chlorobutane,CCCCCl,-0.16,0.993
+"2,5-dimethyltetrahydrofuran",C[C@H]1CC[C@@H](O1)C,-2.92,-1.787
+4-methyl-2-methoxyphenol,Cc1ccc(c(c1)OC)O,-5.8,-4.547
+chlordane,C1[C@H]([C@@H]2[C@H]([C@H]1Cl)[C@]3(C(=C([C@@]2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,-3.44,-3.23
+toluene,Cc1ccccc1,-0.9,-0.79
+isobutyl formate,CC(C)COC=O,-2.22,-3.458
+ethyl paraben,CCOC(=O)c1ccc(cc1)O,-9.2,-9.535
+"1,2-diethoxyethane",CCOCCOCC,-3.54,-3.42
+pentyl propanoate,CCCCCOC(=O)CC,-2.11,-2.176
+4-propylphenol,CCCc1ccc(cc1)O,-5.21,-5.211
+2-methylbut-2-ene,CC=C(C)C,1.31,2.272
+"1,2-dichloroethane",C(CCl)Cl,-1.79,-0.363
+"3,3-dimethylpentane",CCC(C)(C)CC,2.56,2.593
+"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,-2.78,-2.953
+"2,6-dimethylpyridine",Cc1cccc(n1)C,-4.59,-3.443
+"2,2-dichloro-1,1-difluoro-1-methoxy-ethane",COC(C(Cl)Cl)(F)F,-1.12,-0.685
+2-ethoxyethyl acetate,CCOCCOC(=O)C,-5.31,-5.751
+3-methoxyaniline,COc1cccc(c1)N,-7.29,-7.201
+pyridine-3-carbaldehyde,c1cc(cnc1)C=O,-7.1,-7.425
+2-methylbutan-2-ol,CCC(C)(C)O,-4.43,-2.933
+alachlor,CCc1cccc(c1N(COC)C(=O)CCl)CC,-8.21,-6.851
+1-methylpyrrole,Cn1cccc1,-2.89,-2.374
+dimethoxymethane,COCOC,-2.93,-3.221
+pentan-3-ol,CCC(CC)O,-4.35,-2.786
+undecan-2-one,CCCCCCCCCC(=O)C,-2.15,-2.201
+1-bromo-2-chloro-ethane,C(CBr)Cl,-1.95,-0.8
+iodobenzene,c1ccc(cc1)I,-1.74,-1.057
+"3,5,5-trimethylcyclohex-2-en-1-one",CC1=CC(=O)CC(C1)(C)C,-5.18,-4.088
+iodoethane,CCI,-0.74,-0.609
+4-propylguaiacol,CCCc1ccc(c(c1)OC)O,-5.26,-4.127
+2-bromopropane,CC(C)Br,-0.48,0.448

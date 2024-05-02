@@ -1,0 +1,65 @@
+iupac,smiles,expt,calc
+4-chloro-3-methyl-phenol,Cc1cc(ccc1Cl)O,-6.79,-5.14
+hept-2-ene,CCCC/C=C/C,1.68,2.78
+1-propoxypropane,CCCOCCC,-1.16,-0.004
+"(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,-3.2,-3.35
+terbutryn,CCNc1nc(nc(n1)SC)NC(C)(C)C,-6.68,-9.271
+"2,2,4-trimethylpentane",CC(C)CC(C)(C)C,2.89,2.542
+nonan-5-one,CCCCC(=O)CCCC,-2.64,-2.364
+pebulate,CCCCN(CC)C(=O)SCCC,-3.64,-4.573
+hept-1-ene,CCCCCC=C,1.66,2.761
+isopropyl formate,CC(C)OC=O,-2.02,-3.591
+1-acetoxyethyl acetate,CC(OC(=O)C)OC(=O)C,-4.97,-8.006
+5-chlorouracil,c1c(c(=O)[nH]c(=O)[nH]1)Cl,-17.74,-16.612
+isopropenylbenzene,CC(=C)c1ccccc1,-1.24,-0.651
+isopentane,CCC(C)C,2.38,2.59
+butyl nitrate,CCCCO[N+](=O)[O-],-2.09,-1.938
+bromobenzene,c1ccc(cc1)Br,-1.46,-0.947
+"1,1,1-trichloroethane",CC(Cl)(Cl)Cl,-0.19,0.505
+4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde,CC(=C)[C@H]1CCC(=CC1)C=O,-4.09,-3.591
+1-methyl-2-nitro-benzene,Cc1ccccc1[N+](=O)[O-],-3.58,-3.133
+1-iodoheptane,CCCCCCCI,0.27,0.228
+pyrene,c1cc2ccc3cccc4c3c2c(c1)cc4,-4.52,-6.79
+1-chloro-pentane,CCCCCCl,-0.1,1.084
+isobutyl acetate,CC(C)COC(=O)C,-2.36,-2.896
+"2,2-dimethylbutane",CCC(C)(C)C,2.51,2.495
+4-nitroaniline,c1cc(ccc1N)N(=O)=O,-9.82,-9.416
+methyl 2-cyanoacetate,COC(=O)CC#N,-6.72,-6.36
+4-methoxyaniline,COc1ccc(cc1)N,-7.48,-7.016
+isobutylbenzene,CC(C)Cc1ccccc1,0.16,-0.257
+"1,3,5-trichloro-2-phenyl-benzene",c1ccc(cc1)c2c(cc(cc2Cl)Cl)Cl,-2.16,-1.151
+methanamine,CN,-4.55,-3.583
+2-chlorophenol,c1ccc(c(c1)O)Cl,-4.55,-3.317
+"2-amino-9,10-anthraquinone",c1ccc2c(c1)C(=O)c3ccc(cc3C2=O)N,-11.53,-13.895
+"(Z)-1,2-dichloroethylene",C(=C\Cl)\Cl,-1.17,1.156
+hexan-2-one,CCCCC(=O)C,-3.28,-3.006
+"1,2-dinitroxyethane",C(CO[N+](=O)[O-])O[N+](=O)[O-],-5.73,-6.227
+2-fluorophenol,c1ccc(c(c1)O)F,-5.29,-3.346
+pirimor,Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C,-9.41,-13.87
+styrene,C=Cc1ccccc1,-1.24,-1.078
+triethylphosphate,CCOP(=O)(OCC)OCC,-7.5,-10.251
+"2,2,2-trifluoroethanol",C(C(F)(F)F)O,-4.31,-3.809
+1-butoxy-2-propanol,CCCCOC[C@H](C)O,-5.73,-3.891
+propan-1-ol,CCCO,-4.85,-3.33
+o-xylene,Cc1ccccc1C,-0.9,-0.851
+neopentane,CC(C)(C)C,2.51,2.506
+pent-1-yne,CCCC#C,0.01,0.47
+phthalimide,c1ccc2c(c1)C(=O)NC2=O,-9.61,-11.825
+1-iodobutane,CCCCI,-0.25,-0.223
+p-cresol,Cc1ccc(cc1)O,-6.13,-5.579
+2-iodopropane,CC(C)I,-0.46,-0.492
+2-methoxyphenol,COc1ccccc1O,-5.94,-4.746
+cyclopentene,C1CC=CC1,0.56,1.23
+111-trifluoropropan-2-ol,C[C@H](C(F)(F)F)O,-4.2,-3.486
+propan-1-amine,CCCN,-4.39,-3.053
+2-nitrophenol,c1ccc(c(c1)[N+](=O)[O-])O,-4.58,-5.667
+1-methylnaphthalene,Cc1cccc2c1cccc2,-2.44,-3.212
+hexachlorobenzene,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl,-2.33,0.379
+oct-2-enal,CCCCC/C=C/C=O,-3.43,-2.706
+oct-1-yne,CCCCCCC#C,0.71,0.832
+diazinon,CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C,-6.48,-10.753
+methyl octanoate,CCCCCCCC(=O)OC,-2.04,-3.035
+pyrrolidine,C1CCNC1,-5.48,-4.278
+4-hydroxybenzaldehyde,c1cc(ccc1C=O)O,-8.83,-10.05
+1-chloroheptane,CCCCCCCCl,0.29,1.467
+"1,4-dioxane",C1COCCO1,-5.06,-4.269
