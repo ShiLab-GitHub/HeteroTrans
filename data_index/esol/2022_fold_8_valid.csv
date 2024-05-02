@@ -1,0 +1,113 @@
+Compound ID,ESOL predicted log solubility in mols per litre,Minimum Degree,Molecular Weight,Number of H-Bond Donors,Number of Rings,Number of Rotatable Bonds,Polar Surface Area,logSolubility,smiles
+Prometryn,-3.693,1,241.364,2,1,5,62.73,-4.1,CSc1nc(NC(C)C)nc(NC(C)C)n1
+Buturon,-3.199,1,236.702,1,1,2,32.34,-3.9,CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1
+"2,3-Dimethylnaphthalene",-4.116,1,156.22799999999998,0,2,0,0.0,-4.72,Cc1cc2ccccc2cc1C
+"2,4',5-PCB",-5.762,1,257.547,0,2,1,0.0,-6.25,Clc1ccc(cc1)c2cc(Cl)ccc2Cl 
+"2,3',4,4',5-PCB",-7.343,1,360.88200000000006,0,2,1,0.0,-7.39,Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl 
+2-cyanoguanidine,0.361,1,84.082,2,0,0,88.19,-0.31,NC(N)=NC#N 
+Chloropicrin,-1.866,1,164.375,0,0,0,43.14,-2.0,ClC(Cl)(Cl)N(=O)=O
+"2,6-PCB",-4.984,1,223.102,0,2,1,0.0,-5.21,Clc1cccc(Cl)c1c2ccccc2 
+p-Methoxybenzaldehyde,-2.252,1,136.14999999999998,0,1,2,26.3,-1.49,COc1ccc(C=O)cc1
+4-Nitroacetanilide,-2.219,1,180.163,1,1,2,72.24000000000001,-2.692,CC(=O)Nc1ccc(cc1)N(=O)=O
+Ethyl heptanoate,-2.608,1,158.241,0,0,6,26.3,-2.74,CCCCCCC(=O)OCC
+p-Hydroxyacetanilide,-1.495,1,151.165,2,1,1,49.33,-1.03,CC(=O)Nc1ccc(O)cc1
+indazole,-2.34,2,118.13899999999998,1,2,0,28.68,-2.16,c2ccc1[nH]ncc1c2 
+triamcinolone acetonide,-3.928,1,434.50400000000025,2,5,2,93.06000000000002,-4.31,CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO 
+guanine,-0.67,1,151.129,3,2,0,100.45,-3.583,Nc2nc1[nH]cnc1c(=O)[nH]2 
+Methyl acetate,-0.416,1,74.07900000000001,0,0,0,26.3,0.46,COC(=O)C
+Stanolone,-3.882,1,290.44699999999995,1,4,0,37.3,-4.743,CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O 
+1-Hexene-3-ol,-1.199,1,100.161,1,0,3,20.23,-0.59,CCCC(O)C=C
+norbormide,-4.238,1,511.5810000000002,2,7,5,92.18,-3.931,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 
+Dibutyl ether ,-2.135,1,130.231,0,0,6,9.23,-1.85,CCCCOCCCC
+1-Dodecanol,-3.523,1,186.339,1,0,10,20.23,-4.8,CCCCCCCCCCCCO
+RTI 6,-3.335,1,313.36100000000005,2,3,4,81.59000000000002,-3.36,CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 
+2-Methyl-2-pentanol,-1.308,1,102.17699999999998,1,0,2,20.23,-0.49,CCCC(C)(C)O
+Flucytosine,-0.132,1,129.09399999999997,2,1,0,71.77,-0.972,Nc1nc(=O)[nH]cc1F
+stadacaine,-5.128,1,293.40700000000004,0,1,9,38.77,-3.84,CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC 
+2-Methyl-2-heptanol,-2.017,1,130.231,1,0,4,20.23,-1.72,CCCCCC(C)(C)O
+Hexamethylbenzene,-4.361,1,162.27599999999998,0,1,0,0.0,-5.23,Cc1c(C)c(C)c(C)c(C)c1C
+Thymol,-3.129,1,150.22099999999998,1,1,1,20.23,-2.22,CC(C)c1ccc(C)cc1O
+Pteridine,-0.906,2,132.12599999999998,0,2,0,51.56,0.02,c2cnc1ncncc1n2
+Parathion,-3.949,1,291.26500000000004,0,1,7,70.83000000000001,-4.66,CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O
+Methane,-0.636,0,16.043,0,0,0,0.0,-0.9,C
+indoline,-2.195,2,119.167,1,2,0,12.03,-1.04,c2ccc1NCCc1c2 
+1-Nitronapthalene,-3.414,1,173.171,0,2,1,43.14,-3.54,O=N(=O)c1cccc2ccccc12
+3-Methyl-2-pentanone,-1.266,1,100.161,0,0,2,17.07,-0.67,CCC(C)C(=O)C
+isoguanine,-1.74,1,151.129,3,2,0,100.71,-3.401,Nc1nc(O)nc2nc[nH]c12 
+bromadiolone,-7.877,1,527.4140000000002,2,5,6,70.67,-4.445,OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 
+Nitromethane,-0.042,1,61.040000000000006,0,0,0,43.14,0.26,CN(=O)=O
+Triallate,-4.578,1,304.67,0,0,4,20.31,-4.88,CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl
+"1,5-Hexadiene ",-2.112,1,82.14599999999999,0,0,3,0.0,-2.68,C=CCCC=C
+Indole,-2.654,2,117.15099999999995,1,2,0,15.79,-1.52,c2ccc1[nH]ccc1c2
+Androstenedione,-3.393,1,286.415,0,4,0,34.14,-3.69,CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O
+1-Hexene,-2.364,1,84.16199999999999,0,0,3,0.0,-3.23,CCCCC=C
+Xipamide,-3.642,1,354.8150000000001,3,2,3,109.48999999999998,-3.79,Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O
+Ethylcyclohexane,-3.245,1,112.216,0,1,1,0.0,-4.25,CCC1CCCCC1
+2-Nonanone,-2.263,1,142.242,0,0,6,17.07,-2.58,CCCCCCCC(=O)C
+Mebendazole,-4.118,1,295.298,2,3,3,84.07999999999998,-3.88,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3
+Chloropham,-3.544,1,213.664,1,1,2,38.33,-3.38,CC(C)OC(=O)Nc1cccc(Cl)c1
+RTI 12,-3.446,1,288.73800000000006,0,3,1,49.330000000000005,-4.114,CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 
+Carbaryl,-3.087,1,201.225,1,2,1,38.33,-3.224,CNC(=O)Oc1cccc2ccccc12
+Ethyne,-0.252,1,26.038,0,0,0,0.0,0.29,C#C
+"3,5-Dimethylpyridine",-2.098,1,107.15599999999998,0,1,0,12.89,0.38,Cc1cncc(C)c1
+"1,4-Cyclohexadiene",-1.842,2,80.12999999999998,0,1,0,0.0,-2.06,C1C=CCC=C1
+Mecarbam,-3.738,1,329.3800000000001,0,0,8,65.07000000000001,-2.518,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC
+1-Phenylethanol,-1.919,1,122.16699999999996,1,1,1,20.23,-0.92,CC(O)c1ccccc1
+"1,2-Dichloropropane",-1.794,1,112.987,0,0,1,0.0,-1.6,CC(Cl)CCl
+2-Ethyl-2-hexanal,-2.081,1,126.19899999999998,0,0,4,17.07,-2.46,CCCC=C(CC)C=O
+Disulfoton,-3.975,1,274.413,0,0,9,18.46,-4.23,CCOP(=S)(OCC)SCCSCC
+methyltestosterone acetate,-4.863,1,344.4950000000001,0,4,1,43.370000000000005,-5.284,CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C 
+"2,4,6-PCB",-5.604,1,257.547,0,2,1,0.0,-6.14,Clc1ccc(cc1)c2c(Cl)cccc2Cl 
+difluron,-4.692,1,310.687,2,2,2,58.2,-6.02,Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2
+Triclosan,-5.645,1,289.545,1,2,2,29.46,-4.46,Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl
+diisooctyl phthalate,-7.117,1,390.5640000000002,0,1,14,52.60000000000001,-6.637,c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1
+Corticosterone,-3.454,1,346.46700000000016,2,4,2,74.6,-3.24,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO
+"1,3,5-Trimethylbenzene ",-3.375,1,120.19499999999998,0,1,0,0.0,-3.4,Cc1cc(C)cc(C)c1
+dioctyl phthalate,-7.148,1,390.5640000000004,0,1,16,52.60000000000001,-5.115,CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC 
+1-Pentadecanol,-4.586,1,228.41999999999996,1,0,13,20.23,-6.35,CCCCCCCCCCCCCCCO
+"2,2',6,6'-PCB",-5.915,1,291.992,0,2,1,0.0,-7.39,Clc1cccc(Cl)c1c2c(Cl)cccc2Cl 
+"5,5-Dimethylbarbituric acid",-0.556,1,156.141,2,1,0,75.27000000000001,-1.742,O=C1NC(=O)NC(=O)C1(C)C
+2-Iodopropane,-2.486,1,169.993,0,0,0,0.0,-2.09,CC(C)I
+"1,2-Dinitrobenzene",-2.281,1,168.10799999999995,0,1,2,86.28,-3.1,O=N(=O)c1ccccc1N(=O)=O
+3-Methyl-2-butanone,-0.912,1,86.13399999999999,0,0,1,17.07,-0.12,CC(C)C(=O)C
+Hexadecane,-6.159,1,226.44799999999992,0,0,13,0.0,-8.4,CCCCCCCCCCCCCCCC
+"1,8-Cineole",-2.579,1,154.253,0,3,0,9.23,-1.74,CC12CCC(CC1)C(C)(C)O2
+Tricyclazole,-2.868,1,189.243,0,3,0,30.19,-2.07,Cc2cccc3sc1nncn1c23 
+2-Octanone,-1.909,1,128.21499999999995,0,0,5,17.07,-2.05,CCCCCCC(=O)C
+Methyl nonanoate,-2.962,1,172.268,0,0,7,26.3,-3.38,CCCCCCCCC(=O)OC
+"1,4-Difluorobenzene",-2.636,1,114.094,0,1,0,0.0,-1.97,Fc1ccc(F)cc1
+Thalidomide,-1.944,1,258.233,1,3,1,83.55000000000001,-2.676,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13
+Trifluralin,-5.205,1,335.28200000000004,0,1,7,89.51999999999998,-5.68,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O
+Ethanol,0.02,1,46.069,1,0,0,20.23,1.1,CCO
+Cyclopentyl-5-spirobarbituric acid,-0.966,1,182.179,2,2,0,75.27,-2.349,O=C2NC(=O)C1(CCCC1)C(=O)N2
+Carbetamide,-2.29,1,236.271,2,1,4,67.42999999999999,-1.83,c1c(NC(=O)OC(C)C(=O)NCC)cccc1
+phenothrin,-6.763,1,350.4580000000001,0,3,6,35.53,-5.24,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C 
+Cycluron,-2.629,1,198.30999999999992,1,1,1,32.34,-2.218,CN(C)C(=O)NC1CCCCCCC1
+Mirex,-6.155,1,545.5460000000002,0,6,0,0.0,-6.8,ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl
+1-Bromooctane,-3.721,1,193.128,0,0,6,0.0,-5.06,CCCCCCCCBr
+Benomyl,-2.902,1,290.323,2,2,4,85.25,-4.883,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12
+aminopyrine,-2.129,1,231.299,0,2,2,30.17,-0.364,CN(C)c2c(C)n(C)n(c1ccccc1)c2=O 
+3-Pentanol,-0.97,1,88.15,1,0,2,20.23,-0.24,CCC(O)CC
+p-Nitrotoluene,-2.64,1,137.138,0,1,1,43.14,-2.49,Cc1ccc(cc1)N(=O)=O
+4-Methylpentanol,-1.381,1,102.177,1,0,3,20.23,-1.14,CC(C)CCCO
+Norethisterone,-2.669,1,314.42500000000007,2,4,0,57.53,-4.57,CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C
+bromopropylate,-5.833,1,428.12000000000006,1,2,4,46.53,-4.93,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 
+Pyrazon,-2.603,1,221.647,1,2,1,60.91,-2.878,Nc2cnn(c1ccccc1)c(=O)c2Cl
+2-Methylbutan-2-ol,-0.954,1,88.14999999999998,1,0,1,20.23,0.15,CCC(C)(C)O
+p-Cresol,-2.313,1,108.14,1,1,0,20.23,-0.73,Cc1ccc(O)cc1
+Ethyl formate,-0.402,1,74.07900000000001,0,0,2,26.3,0.15,CCOC=O
+"N,N-Dimethylaniline",-2.542,1,121.18299999999996,0,1,1,3.24,-1.92,CN(C)c1ccccc1
+Decalin,-3.715,2,138.254,0,2,0,0.0,-5.19,C1CCC2CCCCC2C1
+Butanethiol ,-1.676,1,90.191,1,0,2,0.0,-2.18,CCCCS
+Benzo(e)pyrene,-6.007,2,252.316,0,5,0,0.0,-7.8,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43
+Tetrachloroethylene,-3.063,1,165.834,0,0,0,0.0,-2.54,ClC(=C(Cl)Cl)Cl
+3-Pentanone,-0.912,1,86.134,0,0,2,17.07,-0.28,CCC(=O)CC
+Acrylonitrile,-0.354,1,53.06399999999999,0,0,0,23.79,0.15,C=CC#N
+Flumethasone,-3.539,1,410.4570000000002,3,4,2,94.83,-5.613,CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO
+2-Hexanone,-1.2,1,100.161,0,0,3,17.07,-0.8,CCCCC(=O)C
+Terbumeton,-3.505,1,225.296,2,1,4,71.96000000000001,-3.239,CCNc1nc(NC(C)(C)C)nc(OC)n1
+3-Methylheptane,-3.308,1,114.232,0,0,4,0.0,-5.16,CCCCC(C)CC
+"1,2-Dibromoethane",-2.102,1,187.862,0,0,1,0.0,-1.68,BrCCBr
+Isoprocarb,-2.734,1,193.246,1,1,2,38.33,-2.863,CNC(=O)Oc1ccccc1C(C)C
+Niridazole,-1.948,1,214.206,1,2,2,88.37,-3.22,O=C1NCCN1c2ncc(s2)N(=O)=O
+Benzo(a)fluorene,-5.189,2,216.283,0,4,0,0.0,-6.68,C1c2ccccc2c3ccc4ccccc4c13
