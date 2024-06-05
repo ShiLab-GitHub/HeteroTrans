@@ -1,0 +1,6 @@
+dgl
+wandb
+numpy==1.22.1
+pandas
+pytorch
+rdkit
